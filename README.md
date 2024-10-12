@@ -3,7 +3,7 @@ Here’s the full `README.md` content for easy copy:
 ```markdown
 # Week Three - Loops in C#
 
-![Header Image](https://zamufey.com/wp-content/uploads/2024/10/lbAss3.png)
+https://zamufey.com/wp-content/uploads/2024/10/lbAss3.png
 
 This repository contains examples and exercises using loops in C#. The examples demonstrate the usage of `while`, `do-while`, and `for` loops, as well as basic arithmetic operations and handling user input in a console application.
 
