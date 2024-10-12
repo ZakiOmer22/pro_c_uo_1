@@ -1,5 +1,3 @@
-Here’s a complete `README.md` for your C# code with explanations for all the functions:
-
 ```markdown
 # Week Three - Loops in C#
 
