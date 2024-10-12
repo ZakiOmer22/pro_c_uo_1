@@ -3,7 +3,7 @@ Here’s the full `README.md` content for easy copy:
 ```markdown
 # Week Three - Loops in C#
 
-https://zamufey.com/wp-content/uploads/2024/10/lbAss3.png
+![Header Image](https://via.placeholder.com/800x200.png?text=Week+Three+Loops+in+C%23)
 
 This repository contains examples and exercises using loops in C#. The examples demonstrate the usage of `while`, `do-while`, and `for` loops, as well as basic arithmetic operations and handling user input in a console application.
 
@@ -199,3 +199,5 @@ This assignment covers raising a base number to a power, and then prompts the us
 
 This project demonstrates basic loop constructs in C#, including `while`, `do-while`, and `for` loops. These examples and exercises are designed to help beginners understand how loops work and how to handle user input for arithmetic operations in a console environment.
 ```
+
+You can copy this and paste it directly into your `README.md` file. The header image link is a placeholder and can be replaced with your own.
